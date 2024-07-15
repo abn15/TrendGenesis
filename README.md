@@ -1,1 +1,1 @@
-# TrendGenesis
+# Trend Genesis
